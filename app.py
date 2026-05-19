@@ -141,8 +141,8 @@ st.markdown("""
 # =========================================================
 # DATA PATHS
 # =========================================================
-DATA_PATH = os.path.expanduser("~/Desktop/student_visa_consulate_master.csv")
-LOGO_PATH = os.path.expanduser("~/Desktop/qu_bobcat_logo.png")
+DATA_PATH = "student_visa_consulate_master.csv"
+LOGO_PATH = "qu_bobcat_logo.png"
 
 # =========================================================
 # LOAD DATA
